@@ -16,6 +16,11 @@
 			path = "Roll the Dice";
 			sourceTree = "<group>";
 		};
+		8F1446822EA690D000432469 /* Dice Images */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Dice Images";
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 		8F10B2402E9FF9F60009CB4C = {
 			isa = PBXGroup;
 			children = (
+				8F1446822EA690D000432469 /* Dice Images */,
 				8F10B24B2E9FF9F60009CB4C /* Roll the Dice */,
 				8F10B24A2E9FF9F60009CB4C /* Products */,
 			);
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				8F10B24B2E9FF9F60009CB4C /* Roll the Dice */,
+				8F1446822EA690D000432469 /* Dice Images */,
 			);
 			name = "Roll the Dice";
 			packageProductDependencies = (
